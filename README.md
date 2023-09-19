@@ -5,10 +5,10 @@ AR Car Show is a project developed at UNITY that allows with the help of VR and 
 <kbd>Unity</kbd> <kbd>Java</kbd> <kbd>Script</kbd> <kbd>Vuforia</kbd> <kbd>Visual Studio Code</kbd> <kbd>Vuforia</kbd> <kbd>Automotive Advertising</kbd>
  
  ## Functionality and Usage
-- Aplicación móvil con tecnología de realidad aumentada de Unity y Vuforia.
-- Ver especificaciones técnicas de vehículos.
-- Reproducción de videos de pruebas de manejo para mostrar la experiencia de conducción.
-- Ver los otros colores disponibles del vehículo.
+- Mobile application with augmented reality technology by Unity and Vuforia.
+- View technical specifications of vehicles.
+- Play test drive videos to show the driving experience.
+- View other available vehicle colors.
 
 _______________________________________________________________________________
 
